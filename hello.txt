@@ -1,1 +1,4 @@
 Hello My name is Alok Kumar Singh.
+It is very easy to learn and implement.
+git basic's .
+try it.
